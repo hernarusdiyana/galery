@@ -1,0 +1,39 @@
+header {
+    position: relative;
+}
+
+.row {
+    padding-top: 50px;
+}
+
+.hero-images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-profiles a {
+    text-decoration: none;
+    color: #000;
+}
+
+.hero-profiles span {
+    padding-right: 25px;
+}
+
+.hero-profiles h1 {
+    padding-bottom: 20px;
+}
+
+.hero-profiles h4 {
+    padding-top: 20px;
+}
+
+.card-img {
+    width: 400px;
+    height: 400px;
+}
+
+.feed:hover {
+    filter: brightness(80%);
+}
